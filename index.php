@@ -6,7 +6,5 @@ echo "<html style='color: rgb(225, 225, 225); background-color: rgb(25, 25, 25);
 echo "<html style='Color: rgb(); Backgroundcolor'"
 echo "Prova 2 de SOCPS <br>";
 echo "Bruno Thuma <br>";
-echo "Data do carregamento da pagina".date("d/m/Y");
-echo "Hora do carregamento da pagina".date("H:i");
 echo "</html>"
 ?>
